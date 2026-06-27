@@ -1,4 +1,3 @@
-```markdown
 # Mafia III Autonomous Driving via LLM
 
 An experimental project to see if a state of the art Large Language Model (LLM) can autonomously drive a vehicle in the game Mafia III using real time screen capture and a virtual gamepad.
@@ -71,6 +70,3 @@ While the single frame LLM approach struggled, future iterations of this concept
 
 MIT License
 
-```
-
-```
