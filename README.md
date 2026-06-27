@@ -66,7 +66,7 @@ While the single frame LLM approach struggled, future iterations of this concept
 * **Fine Tuned SLMs:** Training a much smaller, specialized model specifically on driving gameplay data rather than using a generalized conversational LLM.
 * **Depth Mapping:** Running a localized depth estimation model before sending the image to the LLM to give it explicit numerical distance data to obstacles.
 
-## License
+## Video Demo 
 
-MIT License
+https://vimeo.com/1205142451?share=copy&fl=sv&fe=ci
 
