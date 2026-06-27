@@ -50,7 +50,7 @@ OPENAI_API_KEY=your_api_key_here
 1. Launch Mafia III.
 2. Run the Python script:
 ```bash
-python autonomous_mafia.py
+python main.py
 
 ```
 
