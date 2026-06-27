@@ -22,7 +22,7 @@ GAME_REGION      = {"left": 0, "top": 0, "width": 1920, "height": 1080}
 KILL_KEY         = "q"
 GPT_INTERVAL_SEC = 0.35
 ENABLE_VIS       = True
-MODEL            = "gpt-4o-mini" # Note: Updated from "gpt-5.4-mini" to a valid OpenAI model if needed, but left original intent.
+MODEL            = "gpt-5.4-mini" 
 JPEG_QUALITY     = 70
 INFER_SIZE       = (1920, 1080)
 
